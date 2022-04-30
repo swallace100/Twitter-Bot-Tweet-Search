@@ -3,13 +3,13 @@ import tweepy
 
 # Add API Key, API Key Secret, Bearer Token, Access Token and Access Token Secret from the Twitter Developer website
 # Sign up for a Twitter Developer account at https://developer.twitter.com/ if you don't already have oe
-API_KEY = 'QYYQQGjOv7dzvgk1OwLrDr4J1'
-API_KEY_SECRET = 'zleC7VLcp7XMyP6t7ZyRHiofympFmFBLBWVlVkbAb42LsNqu08'
+API_KEY = 'ADD API KEY HERE'
+API_KEY_SECRET = 'ADD API KEY SECRET HERE'
 
-BEARER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAADVVXAEAAAAA6P%2ByzoUEFApcft%2F%2FYp9DFiM9%2FgI%3DBdvMG8h27L6Yu4XxtvjN5uFycrgLmkwl83xkc4rQnt0prSVvTX'
+BEARER_TOKEN = 'ADD BEARER TOKEN HERE'
 
-ACCESS_TOKEN = '1329620857476542464-VeolqrnCwB0eXxqxjr0nP3JQ8F9LLw'
-ACCESS_TOKEN_SECRET = 'E0Ug9tDT5bbTEEEgviNKsLWGth3BTq6DR36IWzyfTRM5M'
+ACCESS_TOKEN = 'ADD ACCESS TOKEN HERE'
+ACCESS_TOKEN_SECRET = 'ADD ACCESS TOKEN SECRET HERE'
 
 VPS_DIRECTORY = '/twitterBot/data'
 
